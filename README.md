@@ -39,6 +39,7 @@ Check out [Milestones](milestone), [Board](project), and [Issues](issues)
       - Dismiss stale pull request approvals when new commits are pushed
       - Require conversation resolution before merging
       - Request pull request review from Copilot
+      - Allowed merge methods: Squash
     - Require status checks to pass:
       - Require branches to be up to date before merging
       - Do not require status checks on creation
