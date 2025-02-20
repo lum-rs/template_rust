@@ -2,8 +2,8 @@
 name = "template"
 version = "0.1.0"
 authors = ["<name>"]
-edition = "2021"
-rust-version = "1.82.0"
+edition = "2024"
+rust-version = "1.85.0"
 description = "<description>"
 readme = "README.md"
 repository = "<repository>"
