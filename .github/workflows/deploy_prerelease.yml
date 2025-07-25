@@ -5,10 +5,10 @@ on:
 jobs:
   github:
     name: Publish GitHub
-    permissions:
-      contents: write
     environment: GITHUB_PRE_RELEASE
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
